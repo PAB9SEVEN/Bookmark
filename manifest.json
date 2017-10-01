@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Bookmark!",
+  "description": "This extension will bookmark your fav link",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_popup": "index.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
